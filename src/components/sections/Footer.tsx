@@ -7,7 +7,7 @@ const Footer = () => {
             <div className='flex flex-col gap-20'>
                 <div className='flex flex-col gap-6'>
                     <div className="flex flex-col text-8xl text-center text-neutral-300">
-                        <p className='text-neutral-400'><span className='text-orange-500'>C</span>ontact<span className='text-neutral-900'>Me</span></p>
+                        <p className='text-neutral-400'><span className='text-orange-500'>c</span>ontact<span className='text-neutral-900'>Me</span></p>
                     </div>
                     <div>
                         <a className=" shadow-xl shadow-neutral-900 bg-gradient-to-r from-orange-700 to-orange-500 text-xl px-8 py-2 rounded-md text-white" href="mailto:r08s2001@gmail.com">Email</a>
