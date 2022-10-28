@@ -1,7 +1,7 @@
 const ProjectSection = () => {
     return (
         <section className=" flex flex-col items-center justify-center gap-24 min-h-screen px-10 py-20 w-full bg-neutral-900">
-            <div className=" text-neutral-500 text-8xl text-center"><span className="bg-gradient-to-b text-transparent bg-clip-text from-orange-900 to-orange-500">Recent</span>Projects</div>
+            <div className=" text-neutral-500 text-8xl text-center"><span className="bg-gradient-to-b text-transparent bg-clip-text from-orange-900 to-orange-500">recent</span>Projects</div>
             <div className="flex flex-col w-[75%] gap-10">
                 <div className="flex flex-[0.5]  gap-10">
                     <div className="flex flex-col gap-10 p-10 flex-[0.33] w-full text-white shadow-lg shadow-black rounded-xl">
