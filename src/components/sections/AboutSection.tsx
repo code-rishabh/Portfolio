@@ -1,7 +1,7 @@
 const AboutSection = () => {
     return (
         <section className=" flex flex-col justify-center gap-24 min-h-screen px-10 py-20 w-full bg-neutral-900">
-            <div className="text-neutral-500 text-9xl text-center"><span className="text-orange-500">A</span>bout<span className="text-neutral-800">Me</span></div>
+            <div className="text-neutral-500 text-9xl text-center"><span className="text-orange-500">a</span>bout<span className="text-neutral-800">Me</span></div>
             <div className="flex gap-16 items-center shadow-xl shadow-black justify-center rounded-r-xl w-auto pr-5 m-auto">
                 <img className="h-96 shadow-xl shadow-black rounded-l-xl bg-neutral-500" src="/me-001.jpg" alt="myImage" />
                 <div className="flex flex-col w-96 text-yellow-50 gap-5 text-lg">
