@@ -1,7 +1,7 @@
 const SkillSection = () => {
     return (
         <section className=" flex flex-col justify-center gap-24 min-h-screen px-10 py-20 w-full bg-neutral-800">
-            <div className="text-neutral-500 text-9xl text-center">Skill<span className="text-orange-500">s</span></div>
+            <div className="text-neutral-500 text-9xl text-center">skill<span className="text-orange-500">s</span></div>
             <div className='flex flex-col items-center gap-10'>
                 <div className="flex gap-10">
                     <div>
