@@ -9,7 +9,7 @@ const IntroSection = () => {
                     <div className="flex">
                         <h1 className="text-3xl"> <b className="text-orange-600 text-4xl">P</b>ortfolio</h1>
                     </div>
-                    <a target='_blank' rel='noreferrer' className="text-lg shadow-xl shadow-neutral-900 bg-gradient-to-r from-orange-700 to-orange-500 px-4 py-2 rounded-md" href="https://drive.google.com/drive/folders/1fWAhxydf_V6JITInDGKHplb5bbvgAt8X?usp=sharing">Resume</a>
+                    <a target='_blank' rel='noreferrer' className="text-lg shadow-xl shadow-neutral-900 bg-gradient-to-r from-orange-700 to-orange-500 px-4 py-2 rounded-md" href="https://drive.google.com/file/d/1-wsMiZevJITr6OlcGXwF-W_Ed9oNZ0Iz/view">Resume</a>
                 </nav>
                 <div className="flex flex-col pt-10 text-9xl gap-3 items-start">
                     <p className="text-neutral-600 text-7xl">I am a</p>
